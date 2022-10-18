@@ -10,7 +10,14 @@ if(URLactual.toString().includes('localhost:8080')){
                 [
                     '/',
                     '/index.html',
-                    'css/style.css'
+                    'css/style.css',
+                    '/manifest.json',
+                    '/images/icons/android-launchericon-48-48.png',
+                    '/images/icons/android-launchericon-72-72.png',
+                    '/images/icons/android-launchericon-96-96.png',
+                    '/images/icons/android-launchericon-144-144.png',
+                    '/images/icons/android-launchericon-192-192.png',
+                    '/images/icons/android-launchericon-512-512.png',
                     
     
                 ]
@@ -52,7 +59,14 @@ if(URLactual.toString().includes('localhost:8080')){
                 [
                     '/AxelP7.github.io/',
                     '/AxelP7.github.io/index.html',
-                    '/AxelP7.github.io/css/style.css'
+                    '/AxelP7.github.io/css/style.css',
+                    '/AxelP7.github.io/manifest.json',
+                    '/AxelP7.github.io/images/icons/android-launchericon-48-48.png',
+                    '/AxelP7.github.io/images/icons/android-launchericon-72-72.png',
+                    '/AxelP7.github.io/images/icons/android-launchericon-96-96.png',
+                    '/AxelP7.github.io/images/icons/android-launchericon-144-144.png',
+                    '/AxelP7.github.io/images/icons/android-launchericon-192-192.png',
+                    '/AxelP7.github.io/images/icons/android-launchericon-512-512.png',
                     
     
                 ]
