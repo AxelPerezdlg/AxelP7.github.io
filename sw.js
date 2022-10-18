@@ -1,7 +1,5 @@
 const STATIC_CACHE_NAME = 'static-cache-v1.1';
 const INMUTABLE_CACHE_NAME = 'inmutable-cache-v1.1';
-const GET_CACHE_NAME = 'get-cache-v1.1';
-
 
 let URLactual = self.location.href;
 if(URLactual.toString().includes('localhost:8080')){
